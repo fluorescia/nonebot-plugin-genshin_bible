@@ -6,5 +6,5 @@
 ## 指令
 * ```原神圣经``` ```原神语录``` ```原神文案```
 ## 文案来源
-一部分来自于个人收集  
+一部分来自于网络各处  
 另一部分来自于[Genshin-Bible](https://github.com/trojblue/Genshin-Bible)
